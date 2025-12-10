@@ -13,4 +13,7 @@ children:
   - title: divider
   - title: publications
     permalink: /publications/
+  -title: divider
+  -title: 18nucleons
+    permalink: https://18nucleons.blogspot.com/
 ---
