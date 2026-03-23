@@ -32,7 +32,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/nileshpatralekh/
+    - title: <a href="https://github.com/nileshpatralekh/">GitHub</a>
       year: 2015-now
       description: My own website
 
@@ -54,8 +54,7 @@
         - Spintronics
         - Strongly Correlated Systems
     - title: Electronics
-      items:
-        -
+      items: []
 
 - title: Other Interests
   type: list
