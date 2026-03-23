@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://physics.iitd.ac.in/'>IIT Delhi</a>
+subtitle: <a href='https://physics.iitd.ac.in/'>Indian Institute of Technology Delhi</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Department of Physics, IIT Delhi</p>
     <p>Hauz Khas, New Delhi, India</p>
