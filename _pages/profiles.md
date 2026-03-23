@@ -14,15 +14,14 @@ profiles:
     content: nilesh_kumar_patralekh.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Department of Physics, IIT Delhi</p>
+      <p>Hauz Khas, New Delhi, India</p>
+      <p>110016</p>
   - align: left
     image: prof_pic.jpg
     content: nilesh_kumar_patralekh.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
----
+      <p>Department of Physics, IIT Delhi</p>
+      <p>Hauz Khas, New Delhi, India</p>
+      <p>110016</p>
