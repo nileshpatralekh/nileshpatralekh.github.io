@@ -33,7 +33,8 @@
   contents:
     - title: <a href="https://github.com/nileshpatralekh/">GitHub</a>
       year: 2015-now
-      description: My own website
+      description:
+        - My own website
 
 - title: Honors and Awards
   type: time_table
