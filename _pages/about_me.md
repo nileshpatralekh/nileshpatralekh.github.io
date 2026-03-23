@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://physics.iitd.ac.in/'>IIT Delhi</a>
 
 profile:
   align: right
