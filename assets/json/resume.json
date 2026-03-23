@@ -5,7 +5,7 @@
     "image": "",
     "email": "phy.nkpatralekh.com",
     "phone": "",
-    "url": "https://nileshpatralekkh.github.io/",
+    "url": "https://nileshpatralekh.github.io/",
     "summary": "M.Sc. Physics student (IIT Delhi, ’27) with a strong foundation in theoretical physics. Actively seeking a research internship to develop skills in computational modeling for condensed matter systems, with a specific focus on altermagnetism, Spintronics and strongly correlated systems.",
     "location": {
       "address": "Department of Physics, IIT Delhi",
@@ -50,7 +50,7 @@
   "certificates": [
     {
       "name": "DSA in Python",
-      "date": "2018-01-01",
+      "date": "03-2025",
       "issuer": "Indian Institute of Technology Madras",
       "url": "https://www.iitm.ac.in",
       "icon": "fa-solid fa-location-dot"
@@ -62,12 +62,7 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Mechanics"
       ]
     }
   ],
