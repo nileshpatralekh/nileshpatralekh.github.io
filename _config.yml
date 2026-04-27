@@ -1,16 +1,15 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+title:              Nilesh Kumar Patralekh
+email:              phy.nkpatralekh@gmail.com
+description:        Hi! I am Nilesh Kumar Patralekh
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+baseurl:            "/Home"
+url:                "https://nileshpatralekh.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   nkpatralekh
+github_username:    nileshpatralekh
 instagram_username:  
-linkedin_username:
+linkedin_username: nileshkumarpatralekh
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
