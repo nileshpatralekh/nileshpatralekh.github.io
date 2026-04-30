@@ -1,2 +1,23 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+// Custom styles for the name (site title)
+.page-heading h1 {
+  font-size: 80px !important;
+  /* Change the size here */
+  color: #ffffff !important;
+  /* Change the color here (e.g., #ffcc00 for yellow) */
+  padding-left: 0px !important;
+  /* Change the indent here (e.g., 20px) */
+}
+
+// Custom styles for the intro (site description)
+.page-heading .subheading {
+  font-size: 24px !important;
+  /* Change the size here */
+  color: #f8f9fa !important;
+  /* Change the color here */
+  padding-left: 0px !important;
+  /* Change the indent here (e.g., 20px) */
+  font-weight: 300 !important;
+}
