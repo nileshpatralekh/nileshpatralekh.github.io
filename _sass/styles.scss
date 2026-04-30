@@ -3,7 +3,10 @@
 
 // Custom styles for the name (site title)
 .page-heading h1 {
-  font-size: 80px !important;
+  font-size: 40px !important;
+  @media (min-width: 768px) {
+    font-size: 80px !important;
+  }
   /* Change the size here */
   color: #ffffff !important;
   /* Change the color here (e.g., #ffcc00 for yellow) */
@@ -13,11 +16,20 @@
 
 // Custom styles for the intro (site description)
 .page-heading .subheading {
-  font-size: 24px !important;
+  font-size: 16px !important;
+  @media (min-width: 768px) {
+    font-size: 20px !important;
+  }
   /* Change the size here */
   color: #f8f9fa !important;
   /* Change the color here */
-  padding-left: 0px !important;
-  /* Change the indent here (e.g., 20px) */
+  
+  /* Transparent Box Styles */
+  background-color: rgba(0, 0, 0, 0.4) !important;
+  padding: 10px 15px !important;
+  border-radius: 8px !important;
+  display: inline-block !important;
+  margin-top: 10px !important;
+
   font-weight: 300 !important;
 }
