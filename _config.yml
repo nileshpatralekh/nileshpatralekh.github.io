@@ -1,0 +1,26 @@
+title:              Nilesh Kumar Patralekh
+email:              phy.nkpatralekh@gmail.com
+description:        Hi! I am Nilesh Kumar Patralekh. I am a M.Sc. student at The Department of Physics , Indian Institute of Technology Delhi. I am interested in Condensed matter Physics Specifically Superconductivity, Spintronics and Strongly Correlated Systems. 
+author:             Nilesh Kumar Patralekh
+url:                "https://nileshpatralekh.github.io"
+
+# Social Profiles
+twitter_username:   nkpatralekh
+github_username:    nileshpatralekh
+instagram_username:  
+linkedin_username: nileshkumarpatralekh
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+baseurl:            ""
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+remote_theme: "StartBootstrap/startbootstrap-clean-blog-jekyll"
